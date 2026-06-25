@@ -76,9 +76,9 @@ Watch the gameplay demonstration here:
 
 ## Documentation
 
-📄 [Monograph](Documentation/Monograph.pdf)
+📄 [Monograph](Documentation/RAPHAEL_DOS_SANTOS_RIBEIRO_SILVA_VFINAL.pdf)
 
-📄 [Game Design Document (GDD)](Documentation/GDD.pdf)
+📄 [Game Design Document (GDD)](Documentation/O_Ultimo_Praesidium-GDD)
 
 ---
 
