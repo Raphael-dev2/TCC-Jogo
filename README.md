@@ -1,6 +1,6 @@
 # O Último Praesidium
 
-
+(Screenshots/Gameplay.png)
 
 A Tower Defense game developed as a Computer Science Final Year Project using Unreal Engine 5.
 
@@ -68,7 +68,7 @@ During development, several gameplay and technical systems were designed, implem
 
 ## Gameplay Video
 
-🎥 Watch the gameplay demonstration here:
+Watch the gameplay demonstration here:
 
 [Gameplay Video](https://youtu.be/vA2jwyk1D-4?si=Z3oh6WAgFZBQ6eEV)
 
